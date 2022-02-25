@@ -1,6 +1,6 @@
 # pytest-sugar
 
-[![Build status](https://travis-ci.org/Teemu/pytest-sugar.svg?branch=master)](https://travis-ci.org/Teemu/pytest-sugar)
+[![Build status](https://github.com/Teemu/pytest-sugar/actions/workflows/build-and-test.yaml/badge.svg)](https://github.com/Teemu/pytest-sugar/actions/workflows/build-and-test.yaml)
 [![Pypi version](https://img.shields.io/pypi/v/pytest-sugar.svg)](https://pypi.org/project/pytest-sugar/)
 
 pytest-sugar is a plugin for [pytest](http://pytest.org) that shows
